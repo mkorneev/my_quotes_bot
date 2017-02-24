@@ -16,3 +16,5 @@ This is a Telegram bot that allows users to upload their quotes lists and then r
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
+[![analytics](http://www.google-analytics.com/collect?v=1&t=pageview&_s=1&dl=https%3A%2F%2Fgithub.com%2Fmkorneev&_u=MAC~&tid=UA-92605905-1)]()
