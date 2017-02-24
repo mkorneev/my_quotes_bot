@@ -1,0 +1,14 @@
+{
+  "name": "my_quotes_bot_handler",
+  "description": "My Quotes Bot Handler",
+  "region": "eu-west-1",
+  "handler": "main.my_handler",
+  "role": "arn:aws:iam::414528097385:role/lambda_s3_exec_role",
+  "timeout": 10,
+  "memory": 128,
+  "ignore": [
+    "/data/",
+    "\\.git$",
+    "/.*\\.pyc$"
+  ]
+}
